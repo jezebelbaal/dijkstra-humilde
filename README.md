@@ -1,3 +1,3 @@
 # dijkstra-humild
 
-testing some stuffe
+testing some stuff
